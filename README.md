@@ -1,2 +1,2 @@
-# CRG-Tableu-server-team
+# CRG-Tableu-Server-Team
 CRG Tableau Server Team Documents related task
